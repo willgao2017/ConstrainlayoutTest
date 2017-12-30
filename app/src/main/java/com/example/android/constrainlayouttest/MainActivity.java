@@ -15,4 +15,6 @@ public class MainActivity extends AppCompatActivity {
     int y = 0;
     int z = 0;
     int x1 = 0;
+    int x2 = 0;
+    int x3 = 0;
 }
